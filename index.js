@@ -28,9 +28,10 @@ app.get('/api/token/:token_id', function(req, res) {
     'name': person.name,
     'attributes': {
       'birthday': person.birthday,
+      'description': person.description,
       'birth month': monthName(month),
       'zodiac sign': zodiac(day, month),
-      // 'age': moment().diff(person.birthday, 'years')
+      'age': moment().diff(person.birthday, 'years')
     },
     'image': `${HOST}${person.uri}`
   }
