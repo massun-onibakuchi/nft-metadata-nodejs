@@ -1,9 +1,19 @@
 module.exports = {
   "1": {
-    "name": "オカピー",
+    "name": "ラリピー",
     "birthday": "10-18",
     "uri": "QmUS6hCoCsJxZsBwVWTBKHE7YawYoJUf6sU5bQNeGAkne7",
-    "description": "ゴーストタイプ　ノ　オカピー．ニラミツケルヨウナ　スルドイシセンデ　シャシンニウツル　マルデ，ホラー"
+    "description": "ラリちゃった",
+    "type": "らり　タイプ",
+    "attributes": [
+      {
+      "trait_type": "ラリ度",
+      "value": "88"
+      },
+      {
+        "trait_type": "level",
+        "value": 5
+      }]
   },
   "2": {
     "name": "Nagi",
@@ -11,8 +21,20 @@ module.exports = {
     "uri": "QmdCy6viWpHP7t8GgJxDC6jPMo5uPC4P94uM7mK2pYLMNT"
   },
   "3": {
-    "name": "Buttle McFuddle",
-    "birthday": "01-22"
+    "name": "ラリラリのラリピー",
+    "birthday": "01-22",
+    "uri": "QmZmxQuHNssf7C7Fer2KDT4iT6L5Effh2NuANNiWquRUKR",
+    "description": "ラリちゃった",
+    "type": "ラリ　タイプ",
+    "attributes": [
+      {
+        "trait_type": "ラリ度",
+        "value": "8"
+      },
+      {
+        "trait_type": "level",
+        "value": 5
+      }]
   },
   "4": {
     "name": "Quiero Pancakes",
