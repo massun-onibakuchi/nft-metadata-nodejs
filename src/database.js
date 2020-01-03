@@ -2,7 +2,7 @@ module.exports = {
   "1": {
     "name": "ラリピー",
     "birthday": "10-18",
-    "uri": "",
+    "uri": "QmQZuMujtvKd6A3dZS3M78a7F4eZoiNYdEdyY6ULFssanx",
     // "uri": "https://pbs.twimg.com/media/Dmsl3w7VAAAHKvI.jpg:large",
     // "uri": "QmUS6hCoCsJxZsBwVWTBKHE7YawYoJUf6sU5bQNeGAkne7",
     "description": "ラリちゃった",
@@ -25,7 +25,7 @@ module.exports = {
   "3": {
     "name": "ラリラリのラリピー",
     "birthday": "01-22",
-    // "uri": "",
+    "uri": "QmQZuMujtvKd6A3dZS3M78a7F4eZoiNYdEdyY6ULFssanx",
     // "uri": "QmZmxQuHNssf7C7Fer2KDT4iT6L5Effh2NuANNiWquRUKR",
     "description": "ラリちゃった",
     "type": "ラリ　タイプ",
