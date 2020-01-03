@@ -2,9 +2,9 @@ module.exports = {
   "1": {
     "name": "ラリピー",
     "birthday": "10-18",
-    "uri": "QmQZuMujtvKd6A3dZS3M78a7F4eZoiNYdEdyY6ULFssanx",
+    // "uri": "QmQZuMujtvKd6A3dZS3M78a7F4eZoiNYdEdyY6ULFssanx",// Ghost In The Shell
     // "uri": "https://pbs.twimg.com/media/Dmsl3w7VAAAHKvI.jpg:large",
-    // "uri": "QmUS6hCoCsJxZsBwVWTBKHE7YawYoJUf6sU5bQNeGAkne7",
+    "uri": "QmUS6hCoCsJxZsBwVWTBKHE7YawYoJUf6sU5bQNeGAkne7",
     "description": "ラリちゃった",
     "type": "らり　タイプ",
     "attributes": [
@@ -25,14 +25,14 @@ module.exports = {
   "3": {
     "name": "ラリラリのラリピー",
     "birthday": "01-22",
-    "uri": "QmQZuMujtvKd6A3dZS3M78a7F4eZoiNYdEdyY6ULFssanx",
-    // "uri": "QmZmxQuHNssf7C7Fer2KDT4iT6L5Effh2NuANNiWquRUKR",
+    // "uri": "QmQZuMujtvKd6A3dZS3M78a7F4eZoiNYdEdyY6ULFssanx",// GHOST IN THE SHELL
+    "uri": "QmZmxQuHNssf7C7Fer2KDT4iT6L5Effh2NuANNiWquRUKR",
     "description": "ラリちゃった",
     "type": "ラリ　タイプ",
     "attributes": [
       {
         "trait_type": "ラリ度",
-        "value": "8"
+        "value": "67"
       },
       {
         "trait_type": "level",
