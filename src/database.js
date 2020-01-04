@@ -20,6 +20,7 @@ module.exports = {
   "2": {
     "name": "ラリピーの眼",
     "birthday": "01-08",
+    "uri": "QmQZuMujtvKd6A3dZS3M78a7F4eZoiNYdEdyY6ULFssanx",
     // "uri": "QmXn2v8s2juoe55Z17UxS4ti8tEkhy9XxN9uts1qhYXGHA",
     "description": "目,Eye",
     "type": "鋭いまなざし",
@@ -36,7 +37,7 @@ module.exports = {
   "3": {
     "name": "ラリラリのラリピー",
     "birthday": "01-22",
-    // "uri": "QmQZuMujtvKd6A3dZS3M78a7F4eZoiNYdEdyY6ULFssanx",// GHOST IN THE SHELL
+    "uri": "QmQZuMujtvKd6A3dZS3M78a7F4eZoiNYdEdyY6ULFssanx",// GHOST IN THE SHELL
     // "uri": "QmZmxQuHNssf7C7Fer2KDT4iT6L5Effh2NuANNiWquRUKR",
     "description": "ラリちゃった",
     "type": "ラリ　タイプ",
