@@ -18,9 +18,20 @@ module.exports = {
       }]
   },
   "2": {
-    "name": "Nagi",
+    "name": "ラリピーの眼",
     "birthday": "01-08",
-    "uri": "QmdCy6viWpHP7t8GgJxDC6jPMo5uPC4P94uM7mK2pYLMNT"
+    "uri": "QmXn2v8s2juoe55Z17UxS4ti8tEkhy9XxN9uts1qhYXGHA",
+    "description": "目,Eye",
+    "type": "鋭いまなざし",
+    "attributes": [
+      {
+        "trait_type": "ラリ度",
+        "value": "33"
+      },
+      {
+        "trait_type": "level",
+        "value": 87
+      }]
   },
   "3": {
     "name": "ラリラリのラリピー",
