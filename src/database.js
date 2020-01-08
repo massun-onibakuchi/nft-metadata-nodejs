@@ -37,14 +37,15 @@ module.exports = {
   "3": {
     "name": "ラリラリのラリピー",
     "birthday": "01-22",
-    "uri": "QmQZuMujtvKd6A3dZS3M78a7F4eZoiNYdEdyY6ULFssanx",// GHOST IN THE SHELL
+    "uri": "QmdCy6viWpHP7t8GgJxDC6jPMo5uPC4P94uM7mK2pYLMNT",// GHOST IN THE SHELL
     // "uri": "QmZmxQuHNssf7C7Fer2KDT4iT6L5Effh2NuANNiWquRUKR",
+    // https://gateway.pinata.cloud/ipfs/QmdCy6viWpHP7t8GgJxDC6jPMo5uPC4P94uM7mK2pYLMNT
     "description": "ラリちゃった",
     "type": "ラリ　タイプ",
     "attributes": [
       {
         "trait_type": "ラリ度",
-        "value": "67"
+        "value": "68"
       },
       {
         "trait_type": "level",
