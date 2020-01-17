@@ -53,11 +53,21 @@ module.exports = {
       }]
   },
   "4": {
-    "name": "Quiero Pancakes",
-    "birthday": "03-04"
+    "name": "ボロのつりざお",
+    "birthday": "01-22",
+    "uri": "",// GHOST IN THE SHELL
+    // "uri": "QmZmxQuHNssf7C7Fer2KDT4iT6L5Effh2NuANNiWquRUKR",
+    // https://gateway.pinata.cloud/ipfs/QmdCy6viWpHP7t8GgJxDC6jPMo5uPC4P94uM7mK2pYLMNT
+    "description": "ポケモンを つるための どうぐ",
+    "type": "どうぐ",
+    "attributes": [
+      {
+        "trait_type": "ボロ度",
+        "value": "88"
+      },
+      { 
+        "trait_type": "level",
+        "value": 5
+      }]
   },
-  "5": {
-    "name": "Guino the Penguin",
-    "birthday": "03-09"
-  }
 }
