@@ -55,7 +55,7 @@ module.exports = {
   "4": {
     "name": "ボロのつりざお",
     "birthday": "01-22",
-    "uri": "",// GHOST IN THE SHELL
+    "uri": "QmQCQkEn8DYrJtdp9VghhYK8jjzWhYWEr1DzDgR9A8bYQn",// GHOST IN THE SHELL
     // "uri": "QmZmxQuHNssf7C7Fer2KDT4iT6L5Effh2NuANNiWquRUKR",
     // https://gateway.pinata.cloud/ipfs/QmdCy6viWpHP7t8GgJxDC6jPMo5uPC4P94uM7mK2pYLMNT
     "description": "ポケモンを つるための どうぐ",
